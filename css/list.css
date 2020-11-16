@@ -1,0 +1,28 @@
+/* 列表页样式表 */
+.clrdarkblue{
+    color: darkblue;
+}
+.sdw{
+    padding: 5px;
+    box-shadow: #000 3px 3px 7px;
+    margin-bottom: 15px;
+}
+.lt-big{
+    width:200px;
+    height: 200px;
+}
+.rt-small{
+    width: 100px;
+    height: 100px;
+}
+
+@media (max-width:747px){
+    .lt-big{
+        width:100px;
+        height: 100px;
+    } 
+    .hideText{
+        max-height: 40px;
+        overflow: hidden;
+    }
+}

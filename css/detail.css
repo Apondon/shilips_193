@@ -1,0 +1,15 @@
+/* 详情页样式 */
+.breadcrumb{
+    background-color: #fff;
+}
+.article{
+    margin:20px 0;
+    padding: 20px 0;
+    border-top: 3px solid lightgray;
+    border-bottom: 3px solid lightgray;
+}
+@media (max-width:747px){
+    .middle-img{
+       width: 80%;
+    }
+}
