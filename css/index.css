@@ -1,0 +1,44 @@
+/* 首页样式 */
+#light{
+    background: url(../img/fliped_MyPhilips_Onehome_banner2000x700.jpg) no-repeat center;
+    background-size:100% 100%;
+    color: #fff;
+    min-height: 550px;
+}
+#watch{
+    background: url(../img/philips-watch-left-l.jpg) no-repeat center; 
+    background-size:100% 100%;
+    color: #fff;
+    min-height: 550px;
+}
+
+/* 注册 */
+.registe{
+    background: lightgray;
+}
+.clrgreen{
+    color:green;
+}
+.mgb15{
+    margin-bottom: 15px;
+}
+.rgst{
+    height:372px;
+    background: url(../img/LM-MyPhilips-Banner.jpg) no-repeat;
+    background-size: 100% 100%;
+   
+}
+.jumbotron{
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+}
+/* 搜索 */
+.search{
+    background: lightskyblue;
+}
+.clrDcy{
+    color: darkcyan;
+}
